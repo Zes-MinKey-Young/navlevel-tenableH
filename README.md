@@ -1,7 +1,7 @@
 
 十恒路线排名榜单仅供参考，引用请注明来源。
 
-关于API使用，请参考[NavLevel-vue](https://github.com/RollingSkyWiki/navlevel-vue)。您也可以看看[tenableH.ts]的内容。
+关于API使用，请参考[NavLevel-vue](https://github.com/RollingSkyWiki/navlevel-vue)。您也可以看看[tenableH.ts](tenableH.ts)的内容。
 
 # 使用
 使用方法：确保您拥有滚动的天空Wiki账号，且在Special:参数设置中启用了“定制化分组排序”小工具。在您的`User:<username>/common.js`中添加：
